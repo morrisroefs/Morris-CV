@@ -56,4 +56,6 @@ body {
   font-style: normal;
 }
 
+.Morris-level {
+	border-color: black !important
 }
